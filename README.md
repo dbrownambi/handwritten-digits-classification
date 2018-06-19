@@ -1,5 +1,5 @@
 # MNIST
-[Compared and analyzed](Deepanshu Saini_EE 258 Project 1.pdf) the performance of the the following **7** different machine learning algorithms for classifying the MNIST dataset based on their validation accuracy
+[Compared and analyzed](Deepanshu\Saini_EE\258\Project\1.pdf) the performance of the the following **7** different machine learning algorithms for classifying the MNIST dataset based on their validation accuracy
 
 1. [Linear Classifier](Codes/Linear_SGD.py)
 2. [K-Nearest Neighbor Classifier](Codes/K-NN.py)
