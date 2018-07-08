@@ -1,3 +1,4 @@
+# Classifying Handwritten Digits
 ### This project implements machine learning algorithms to classify handwritten digits.
 The complete project report can be found [here](https://github.com/dbrownambi/mnist-classification/blob/master/Project%20Report.pdf). The dataset used for this project is the **MNIST** database of handwritten digits, available from this [page](http://yann.lecun.com/exdb/mnist/). It has a training set of 60,000 examples, and a test set of 10,000 examples: 
 
